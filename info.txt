@@ -1,0 +1,9 @@
+/*
+FOR DELETING THE ROOM FROM CART, IT SOHULD FETCHT HE ITEMID NOT THE ID OF THE ROOM
+
+ */
+
+
+ 2025-03-18 ==> getusercart done (implemented rooms and events adding to cart)
+ next implement user cart to reflect the rooms and events and also calculate total price.
+ display images in events
